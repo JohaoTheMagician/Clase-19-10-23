@@ -1,0 +1,32 @@
+export const Videojuegos = [
+    {
+        id:"01",
+        nombre:"Ark survival evolved",
+        imagen:"https://store-images.s-microsoft.com/image/apps.57022.68827900279613582.20e89a74-fae1-43c0-ab49-911cf6056335.83599011-567d-4a9a-baae-577d03ab17f8?q=90&w=480&h=270"
+    },
+    {
+        id:"02",
+        nombre:"",      
+        imagen:"https://cdn.cloudflare.steamstatic.com/steam/apps/782330/capsule_616x353.jpg?t=1693933695"
+    },
+    {
+        id:"03",
+        nombre:"",        
+        imagen:"https://cdn.akamai.steamstatic.com/steam/apps/202970/capsule_616x353.jpg?t=1654830020"
+    },
+    {
+        id:"04",
+        nombre:"",        
+        imagen:"https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/social/cs2.jpg"
+    },
+    {
+        id:"05",
+        nombre:"",        
+        imagen:"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc655d62fc92e4acd/649bdd9094be10f2698941ed/071123_Val_EP7_China_CG_Banner.jpg?auto=webp&disable=upscale&height=549"
+    },
+    {
+        id:"06",
+        nombre:"",       
+        imagen:"https://staticg.sportskeeda.com/editor/2022/07/ed999-16584243794093-1920.jpg?w=840"
+    }
+]
